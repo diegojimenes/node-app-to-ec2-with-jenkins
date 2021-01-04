@@ -2,6 +2,9 @@
   "name": "node-jenkins",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+     "start": "echo oi"
+  },
   "repository": "https://github.com/diegojimenes/node-app-to-ec2-with-jenkins.git",
   "author": "diegojimenes <contato.diegojimenes@gmail.com>",
   "license": "MIT"
