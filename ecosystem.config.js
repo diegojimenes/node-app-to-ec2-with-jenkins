@@ -1,6 +1,6 @@
 module.exports = { 
 	  apps: [{
-		      name    : "node-app",
+		      name    : "norde-app",
 		      script  : "npm",
 		      args    : "start"
 	  }]
